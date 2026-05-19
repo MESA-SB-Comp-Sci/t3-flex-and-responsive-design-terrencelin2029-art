@@ -9,7 +9,7 @@ header{
   text-align: center;
 }
 
-.middle-section{
+.middle-section {
   width: 100%;
   height: 400px;
   background-color: lightpink;
@@ -23,8 +23,8 @@ aside{
   background-color: lightseagreen;
 }
 
-.image-section{
-  width: 70%;
+.image-section {
+  width: 100%;
   height: 100%;
   background-color: aliceblue;
 
